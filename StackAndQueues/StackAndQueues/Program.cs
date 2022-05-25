@@ -5,7 +5,7 @@ namespace LinkedListStackAndQueue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("-----------Welcome to Linked List Program----------");
+            Console.WriteLine("Welcome to Linked List Program");
             LinkedListStack stack = new LinkedListStack();
             stack.Push(70);
             stack.Push(30);
